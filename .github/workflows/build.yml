@@ -7,7 +7,7 @@ on:
 
 env:
   IMAGE_NAME: bokmen/cover-preproc
-  TAG: gpu-v1     # bump this when you want a new immutable tag
+  TAG: gpu-v2     # bump this when you want a new immutable tag
 
 jobs:
   docker:
